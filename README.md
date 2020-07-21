@@ -1,11 +1,14 @@
+[![S0AndS0's GitHub Stats][github_stats__S0AndS0]][S0AndS0__profile]
+
+
 ## Greetings lifeforms
 
 
-My personal account is where miscellaneous repositories are [published][S0AndS0__repositories__sources], and occasionally from other authors [forked][S0AndS0__repositories__fork] to contribute to the Open Source community as a whole.
+My personal account is where miscellaneous repositories are [published][S0AndS0__repositories__sources], and occasionally from other authors are [forked][S0AndS0__repositories__fork] to contribute to the Open Source community as a whole.
 
 
 <details>
-<summary>Various Organizations I Contribute to</summary>
+<summary>Organizations I contribute to</summary>
 
 - [52ForPeerReview][52forpeerreview], where developers can challenge themselves, and assist others, in publishing one project or major feature per week.
 
@@ -45,9 +48,17 @@ My personal account is where miscellaneous repositories are [published][S0AndS0_
 </details>
 
 
-You may sponsor me on Liberapay <sub>[![shields_io__sponsor]][S0AndS0__liberapay]</sub> which certainly helps encourage further development.
+Liberapay <sub>[![shields_io__sponsor]][S0AndS0__liberapay]</sub> is where you can sponsor me, which certainly helps encourage further development.
 
 
+If you've questions, need code reviewed, and/or just want to say howdy, then you can contact me on <sub>[![Follow on Twitter][shields_io__twitter_follow]][twitter__s0_and_s0]</sub> or on the <sub>[![Stack Exchange][shields_io__stackexchange]][stackexchange__S0AndS0]</sub> network.
+
+
+Thanks for stopping by, and good luck to y'all!
+
+
+
+[S0AndS0__profile]: https://github.com/S0AndS0/
 
 [S0AndS0__repositories__sources]:
   https://github.com/S0AndS0?tab=repositories&type=source
@@ -63,6 +74,25 @@ You may sponsor me on Liberapay <sub>[![shields_io__sponsor]][S0AndS0__liberapay
   "&#x1F4B1; Sponsor the verity of developments and projects that I maintain via Liberapay"
 
 [shields_io__sponsor]: https://img.shields.io/static/v1?logo=liberapay&label=Sponsor&message=S0AndS0
+
+
+[twitter__s0_and_s0]:
+  https://twitter.com/S0_And_S0
+  "&#x1F426; Where I share Tweet sized technical tips"
+
+[shields_io__twitter_follow]: https://img.shields.io/twitter/follow/S0_And_S0?style=social&label=Twitter
+
+
+[stackexchange__S0AndS0]:
+  https://stackexchange.com/users/3010672/s0ands0
+  "&#x1F4DA; Where I provide code review and answer technical questions"
+
+
+[shields_io__stackexchange]: https://img.shields.io/badge/StackExchange-gray.svg?logo=stack-exchange
+
+
+[github_stats__S0AndS0]: https://github-readme-stats.vercel.app/api?username=S0AndS0&show_icons=true
+
 
 
 [52forpeerreview]:
