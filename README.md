@@ -8,7 +8,7 @@ My personal account is where miscellaneous repositories are [published][S0AndS0_
 
 
 <details>
-<summary>Organizations I contribute to</summary>
+<summary>Organizations I contribute to <sup><small>(click to expand)</small></sup></summary>
 
 - [52ForPeerReview][52forpeerreview], where developers can challenge themselves, and assist others, in publishing one project or major feature per week.
 
@@ -40,6 +40,8 @@ My personal account is where miscellaneous repositories are [published][S0AndS0_
 
 - [Raspberry Pi Curious][rpi_curious], gathers tips, tricks, configurations, and scripts for low powered Linux devices such as Raspberry Pi
 
+- [Rust Utilities][rust_utilities], crates of libraries and assorted strongly typed source code for use in other projects
+
 - [SCSS Utilities][scss_utilities], clusters Scss modules compatible with NodeJS and Ruby implementations of Sass language
 
 - [Vim Utilities][vim_utilities], battery of custom Vim plugins
@@ -51,7 +53,7 @@ My personal account is where miscellaneous repositories are [published][S0AndS0_
 Liberapay <sub>[![shields_io__sponsor]][S0AndS0__liberapay]</sub> is where you can sponsor me, which certainly helps encourage further development.
 
 
-If you've questions, need code reviewed, and/or just want to say howdy, then you can contact me on <sub>[![Follow on Twitter][shields_io__twitter_follow]][twitter__s0_and_s0]</sub> or on the <sub>[![Stack Exchange][shields_io__stackexchange]][stackexchange__S0AndS0]</sub> network.
+If you've questions, need code reviewed, and/or just want to say howdy, then contact me on <sub>[![Follow on Twitter][shields_io__twitter_follow]][twitter__s0_and_s0]</sub> or on the <sub>[![Stack Exchange][shields_io__stackexchange]][stackexchange__S0AndS0]</sub> network.
 
 
 Thanks for stopping by, and good luck to y'all!
@@ -155,6 +157,10 @@ Thanks for stopping by, and good luck to y'all!
   https://github.com/rpi-curious
   "Gathers tips, tricks, configurations, and scripts for low powered Linux devices such as Raspberry Pi"
 
+[rust_utilities]:
+  https://github.com/rust-utilities
+  "&#x1F980; Crates of libraries and assorted strongly typed source code for use in other projects"
+
 [scss_utilities]:
   https://github.com/scss-utilities
   "&#x1F3ED; Clusters Scss modules compatible with NodeJS and Ruby implementations of Sass language"
@@ -166,3 +172,4 @@ Thanks for stopping by, and good luck to y'all!
 [web_dev_examples]:
   https://github.com/web-dev-examples
   "Array of projects that demonstrate features and/or concepts for web developers of any level"
+
