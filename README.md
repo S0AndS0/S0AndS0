@@ -1,4 +1,5 @@
-[![S0AndS0's GitHub Stats][github_stats__S0AndS0]][S0AndS0__profile]
+[![S0AndS0's GitHub Stats][github_stats__S0AndS0]][profile__github]
+[![S0AndS0's Language Stats][language_stats__S0AndS0]][profile__github]
 
 
 ## Greetings lifeforms
@@ -15,6 +16,8 @@ My personal account is where miscellaneous repositories are [published][S0AndS0_
 - [Awk Utilities][awk_utilities], collects reusable Awk scripts for specific tasks
 
 - [Bash Utilities][bash_utilities], organizes Bash functions for use within other scripts
+
+- [C Language Utilities][clang_utilities], collects C-Lang projects
 
 - [Development Tutorials][development_tutorials], contains guides written for assisting developers of all levels
 
@@ -44,23 +47,26 @@ My personal account is where miscellaneous repositories are [published][S0AndS0_
 
 - [SCSS Utilities][scss_utilities], clusters Scss modules compatible with NodeJS and Ruby implementations of Sass language
 
+- [Solidity Utilities][solidity_utilities], libraries and smart contracts for Decentralized Applications (DApps)
+
 - [Vim Utilities][vim_utilities], battery of custom Vim plugins
 
 - [Web Development Examples][web_dev_examples], array of projects that demonstrate features and/or concepts for web developers of any level
 </details>
 
 
-Liberapay <sub>[![shields_io__sponsor]][S0AndS0__liberapay]</sub> is where you can sponsor me, which certainly helps encourage further development.
+Liberapay <sub>[![shields_io__sponsor]][profile__liberapay]</sub> is where you can sponsor me, which certainly helps encourage further development.
 
 
-If you've questions, need code reviewed, and/or just want to say howdy, then contact me on <sub>[![Follow on Twitter][shields_io__twitter_follow]][twitter__s0_and_s0]</sub> or on the <sub>[![Stack Exchange][shields_io__stackexchange]][stackexchange__S0AndS0]</sub> network.
+If you've questions, need code reviewed, and/or just want to say howdy, then contact me on the <sub>[![Stack Exchange][shields_io__stackexchange]][profile__stackexchange]</sub> network or, <sub>[![Follow on Twitter][shields_io__twitter_follow]][profile__twitter]</sub> for quick tips/tricks.
+
+
+I provide freelance and/or contract services too, and can be reached via [LinkedIn][profile__linked_in] or [Matrix][profile__matrix] for consultation.
 
 
 Thanks for stopping by, and good luck to y'all!
 
 
-
-[S0AndS0__profile]: https://github.com/S0AndS0/
 
 [S0AndS0__repositories__sources]:
   https://github.com/S0AndS0?tab=repositories&type=source
@@ -70,22 +76,28 @@ Thanks for stopping by, and good luck to y'all!
   https://github.com/S0AndS0?tab=repositories&type=fork
   "List of forked repositories"
 
+[github_stats__S0AndS0]: https://github-readme-stats.vercel.app/api?username=S0AndS0&show_icons=true
 
-[S0AndS0__liberapay]:
+[language_stats__S0AndS0]: https://github-readme-stats.vercel.app/api/top-langs/?username=S0AndS0&show_icons=true&layout=compact
+
+
+[profile__github]: https://github.com/S0AndS0/
+
+[profile__liberapay]:
   https://liberapay.com/S0AndS0
   "&#x1F4B1; Sponsor the verity of developments and projects that I maintain via Liberapay"
 
 [shields_io__sponsor]: https://img.shields.io/static/v1?logo=liberapay&label=Sponsor&message=S0AndS0
 
 
-[twitter__s0_and_s0]:
+[profile__twitter]:
   https://twitter.com/S0_And_S0
   "&#x1F426; Where I share Tweet sized technical tips"
 
 [shields_io__twitter_follow]: https://img.shields.io/twitter/follow/S0_And_S0?style=social&label=Twitter
 
 
-[stackexchange__S0AndS0]:
+[profile__stackexchange]:
   https://stackexchange.com/users/3010672/s0ands0
   "&#x1F4DA; Where I provide code review and answer technical questions"
 
@@ -93,8 +105,12 @@ Thanks for stopping by, and good luck to y'all!
 [shields_io__stackexchange]: https://img.shields.io/badge/StackExchange-gray.svg?logo=stack-exchange
 
 
-[github_stats__S0AndS0]: https://github-readme-stats.vercel.app/api?username=S0AndS0&show_icons=true
+[profile__matrix]:
+  https://matrix.to/#/@s0ands0:matrix.org
+  "Matrix is an open source encrypted chat and VOIP (Voice Over IP) service protocol"
 
+[profile__linked_in]:
+  https://www.linkedin.com/in/s0ands0/
 
 
 [52forpeerreview]:
@@ -108,6 +124,10 @@ Thanks for stopping by, and good luck to y'all!
 [bash_utilities]:
   https://github.com/bash-utilities
   "&#x1F41A; Organizes Bash functions for use within other scripts"
+
+[clang_utilities]:
+  https://github.com/clang-utilities
+  "&#x1F409;"
 
 [development_tutorials]:
   https://github.com/development-tutorials
@@ -164,6 +184,10 @@ Thanks for stopping by, and good luck to y'all!
 [scss_utilities]:
   https://github.com/scss-utilities
   "&#x1F3ED; Clusters Scss modules compatible with NodeJS and Ruby implementations of Sass language"
+
+[solidity_utilities]:
+  https://github.com/solidity-utilities
+  ":chains: Libraries and smart contracts for Decentralized Applications (DApps)"
 
 [vim_utilities]:
   https://github.com/vim-utilities
