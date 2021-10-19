@@ -127,7 +127,7 @@ Thanks for stopping by, and good luck to y'all!
 
 [clang_utilities]:
   https://github.com/clang-utilities
-  "&#x1F409;"
+  "&#x1F409; Collects C-Lang projects"
 
 [development_tutorials]:
   https://github.com/development-tutorials
@@ -187,7 +187,7 @@ Thanks for stopping by, and good luck to y'all!
 
 [solidity_utilities]:
   https://github.com/solidity-utilities
-  ":chains: Libraries and smart contracts for Decentralized Applications (DApps)"
+  "&#x26d3; Libraries and smart contracts for Decentralized Applications (DApps)"
 
 [vim_utilities]:
   https://github.com/vim-utilities
