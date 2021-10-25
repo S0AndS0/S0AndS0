@@ -1,7 +1,3 @@
-[![S0AndS0's GitHub Stats][github_stats__S0AndS0]][profile__github]
-[![S0AndS0's Language Stats][language_stats__S0AndS0]][profile__github]
-
-
 ## Greetings lifeforms
 
 
@@ -66,6 +62,8 @@ I provide freelance and/or contract services too, and can be reached via [Linked
 
 Thanks for stopping by, and good luck to y'all!
 
+
+[![S0AndS0's GitHub Stats][github_stats__S0AndS0]][profile__github]
 
 
 [S0AndS0__repositories__sources]:
